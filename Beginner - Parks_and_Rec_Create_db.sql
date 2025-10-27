@@ -1,0 +1,10 @@
+SELECT * 
+FROM EMPLOYEE_DEMOGRAPHICS;
+-- WE WILL USE THE LIMIT TO KEEP THE PROCESSING TIME LOW
+ -- SEMICOLON WILL TELL THE END OF THE SQL COMMAND
+ SELECT * 
+ FROM sys.sys_config;
+ 
+ -- we use the DATABSE.TABLE_NAME if we are dealing with multiple databases
+
+ 
