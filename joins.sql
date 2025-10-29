@@ -9,7 +9,7 @@ WHERE OCCUPATION LIKE "%OFFICE%";
 
 --Joins
 
-SEELCT * 
+SELECT * 
 FROM employee_demographics;
 
 SELECT *
